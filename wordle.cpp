@@ -73,7 +73,7 @@ set<string> wordleHelper(string& alphabet, string floating, string& word, set<st
       cout << word << endl;
       psol.insert(word);
     }
-    // test
+    // test 2
     // recursive case for finding solution 
     else {
         // try letters in the floating one at a time 
